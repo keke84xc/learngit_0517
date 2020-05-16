@@ -118,4 +118,5 @@ def exception(request):
 
         #MultipleObjectsReturned('get() returned more than one Grades -- it returned 3!',)
         print("%r" %e)
-    return HttpResponse("测试111")
+        #第6次提交
+    return HttpResponse("测试666")
